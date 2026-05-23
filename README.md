@@ -69,6 +69,16 @@ Las capturas se generan abriendo (si es necesario) un chart temporal del símbol
 - **Nunca commitees tu token real**. Por defecto el código tiene un placeholder; el token lo configuras al adjuntar el EA al gráfico.
 - Si tu token queda expuesto, revócalo en [@BotFather](https://t.me/BotFather) → `/mybots` → tu bot → **Revoke current token**.
 
+## Autor
+
+**Brandon Arcila** — [@soybrandonarcila](https://www.instagram.com/soybrandonarcila/) en Instagram
+
 ## Licencia
 
-MIT.
+Software libre y abierto bajo licencia **MIT**.
+
+Puedes usarlo, modificarlo y redistribuirlo sin restricciones. Si lo usas en un proyecto propio y quieres dar atribución, hazlo a:
+
+> **THE TRADING API LLC**
+
+Ver el archivo [`LICENSE`](LICENSE) para los términos completos.
