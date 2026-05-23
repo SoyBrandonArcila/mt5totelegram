@@ -1,0 +1,22 @@
+# MetaTrader compilado
+*.ex5
+*.ex4
+
+# Logs y capturas generadas en runtime
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# Editor / OS / herramientas locales
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups
+*.bak
+*.swp
+*~
